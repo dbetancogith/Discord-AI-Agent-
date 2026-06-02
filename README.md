@@ -14,3 +14,8 @@ python discord_only.py
 run the following commands:<br>
 pip install -r requirements.txt<br>
 python mybot.py
+
+# requirements
+discord.py
+python-dotenv
+openai
